@@ -54,3 +54,16 @@ Kotitehtävänä ollut laskimen "virheellinen valinta" missä kohtaa se olisi pa
 Kommentit miksi päädyin tuohon ratkaisuun on samassa tiedostossa, Mutta jos se pitäisi laittaa johonkin toiseen kohtaan missä se nyt on, niin 
 laittaisin sen riville 7.
 Syynä se, että silloinhan se valinta toiminnosta on jo tehty joten miksi käydä silmukkaa alas asti ennenkuin virheteksti tulisi.
+
+## Moduuli 5
+
+Tein tehtävän 1
+
+Tein tehtävän 2
+
+Tehtävä 3, en tehnyt, en vaan hokasannut yhtää kuinka tätä lähdetään rakentamaan.
+
+Tein tehtävän 4
+
+
+#toivottoman vaikeeta tämä on, en tajua miten ikinä tulen pääsemään kokeesta läpi. Jo yksikin tehtävä vaatii minulta ihan järjettömän paljon aikaa miettiä, kokeilla, selvittää ja ymmärtää mitä tehdä ja minulla on kuitenkin näissä tehtävien teossa kaikki materiaali käytettävissä. Minulla alkaa iskeä pieni epätoivo!

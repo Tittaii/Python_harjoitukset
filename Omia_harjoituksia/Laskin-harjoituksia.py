@@ -1,8 +1,8 @@
-print("------------------TERVETULOA LASKINOHJELMAAN-------------------")
+print("\n-----------------TERVETULOA LASKINOHJELMAAN-------------------")
 
 while True:
-    print("Valitse mitä toimintaoa haluat käyttää:")
-    print("A: Yhteenlasku, B: Vähennyslasku, C: Kertolasku, D: Jakolasku, Q = Lopeta ohjelma")
+    print("\nValitse mitä toimintoa haluat käyttää:")
+    print("A: Yhteenlasku\nB: Vähennyslasku\nC: Kertolasku\nD: Jakolasku\nQ: Lopeta ohjelma\n")
     valinta = input("Anna valintasi: ").upper()
 
     if valinta == "Q":
