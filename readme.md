@@ -67,3 +67,23 @@ Tein tehtävän 4
 
 
 #toivottoman vaikeeta tämä on, en tajua miten ikinä tulen pääsemään kokeesta läpi. Jo yksikin tehtävä vaatii minulta ihan järjettömän paljon aikaa miettiä, kokeilla, selvittää ja ymmärtää mitä tehdä ja minulla on kuitenkin näissä tehtävien teossa kaikki materiaali käytettävissä. Minulla alkaa iskeä pieni epätoivo!
+
+##kertaustunnin 19.10. vastaukset
+
+Tein tehtävän 1
+
+Tein tehtävän 2
+
+Tein tehtävän 3
+
+Tein tehtävän 4
+
+Tein tehtävän 5
+
+Tein tehtävän 8
+
+Tein tehtävän 7
+
+Tein tehtävän 6
+
+Tein tehtävän 9
