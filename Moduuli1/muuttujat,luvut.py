@@ -33,6 +33,9 @@ print(luku1 % luku2)
 #potenssiin korotus
 print(luku1 ** luku2)
 
-
 import math
 import random
+
+#listarakenne
+minun_lista = []
+

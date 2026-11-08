@@ -87,3 +87,12 @@ Tein tehtävän 7
 Tein tehtävän 6
 
 Tein tehtävän 9
+
+
+## Moduuli6 
+
+Tein tehtävän 1
+
+Tein tehtävät 2 ja 3
+
+En vain käsittänyt tehtäviä 4-6. yritin kyllä, mutta en päässyt näihin kiinni. Miten ihmeessä tulen selviämään tästä kurssista. Luennoilla kaikki tuntuu tosi selvältä ja sellaiselta, että ymmärrän näitä. Mutta sitten kun yksi pitää näitä tehtäviä tehdä, niin olen aivan pulassa.
